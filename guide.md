@@ -39,7 +39,7 @@
 
 # Introduction
 
-Nano BrowserQuest is based on the orginal BrowserQuest game: https://en.wikipedia.org/wiki/BrowserQuest. It started out as a fork that was identical in gameplay to the original, while integrating Nano (XNO) cryptocurrency transactions. The fork is created by running-coder (also known for creating and maintaining the website https://nanolooker.com/) as a way to promote awareness of the XNO currency. The original idea is similar to that of a faucet website which regularly pays out a small amount of cryptocurrency, commonly involving the user solving captchas or similar tasks. Nano BrowserQuest intended to make the process fun by allowing the user to play a game instead of performing menial tasks to recieve a micro payout in XNO.
+Nano BrowserQuest is based on the orginal BrowserQuest game: https://en.wikipedia.org/wiki/BrowserQuest. It started out as a fork that was identical in gameplay to the original, while integrating Nano (XNO) cryptocurrency transactions. The fork was created by running-coder (also known for creating and maintaining the website https://nanolooker.com/) as a way to promote awareness of the XNO currency. After running-coder's passing, iamgus has rebuilt and expanded the project from the repo. The original idea is similar to that of a faucet website which regularly pays out a small amount of cryptocurrency, commonly involving the user solving captchas or similar tasks. Nano BrowserQuest intended to make the process fun by allowing the user to play a game instead of performing menial tasks to recieve a micro payout in XNO.
 Since it's inception Nano BrowserQuest has been developed into a more complete experience as running-coder steadly improves and expands the game. Bugs from the original game have been fixed, several new items have been implemented and last but not least a big expansion pack is available for purchase.
 
 # Expansions
@@ -666,7 +666,7 @@ You can use Runewords to get extra bonusses by putting runes in socketed normal 
 | Ordinals                   | :runesol::runebtc::runeum::runelas::runesat:           | +30 Defense, +25% Lightning resistance, +25% Cold resistance, +25 health regeneration per second, +18% Flame damage                                                                 |
 | Fear and Greed index       | :runezal::runehex::runefal::runebtc::runeeth::runebul: | +60 Health, +20 Defense, +15 Absorbed damage, +15 Attack, +15 Minimum damage                                                                                                        |
 | Satoshi's Original Vision  | :runedur::runesat::runedo::runedur::runelas::runegul:  | +180 Health, +30 Defense, +20 Poison damage, +35% Poison resistance, +20% All resistances, +25 health regeneration per second                                                       |
-| Echo Chamber               | :runejah::runeshi::runejah::runeber::runeeth::runegul: | +160 Health, +35 Defense, +15 Magic damage, +15 Flame damage, +15 Lightning damage, +15 Cold damage, +15 Poison damage, +25% Magic find, 15% Faster cast rate, +20% All resistances |
+| Echo Chamber               | :runejah::runeshi::runexno::runeber::runevod::runegul: | +160 Health, +35 Defense, +15 Magic damage, +15 Flame damage, +15 Lightning damage, +15 Cold damage, +15 Poison damage, +25% Magic find, 15% Faster cast rate, +20% All resistances |
 
 **Helms**
 
@@ -819,4 +819,4 @@ let hp = baseHP(80) + 6 * playerLevel;
 
 # Discord
 
-To engage with other players, report any problems, list your items for trade or check the release notes, you can join [Join the Discord ](https://discord.gg/GerkX8BfYy).
+To engage with other players, report any problems, list your items for trade or check the release notes, you can join [Join the Discord ](https://discord.gg/u3AarepEN3).
