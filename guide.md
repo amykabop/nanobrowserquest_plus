@@ -576,39 +576,39 @@ Your character will receive bonuses by wearing all set items
 
 The Lost Temple Addon introduces Runes that can drop from any enemy, but the chances of finding higher tier ones increase when defeating higher level foes. Keep defeating enemies to increase your chances of discovering these powerful artifacts.
 
-| #   | NAME | IMAGE                                                                                                                            | STAT BONUSES                                           |
-| --- | ---- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 1   | SAT  | ![{"name": "SAT Rune #1", "itemClass": "low", "requirement": 1}](https://nanobrowserquest.com/img/2/item-rune-sat.png)           | +10 Health                                             |
-| 2   | AL   | ![{"name": "AL Rune #2", "itemClass": "low", "requirement": 2}](https://nanobrowserquest.com/img/2/item-rune-al.png)             | +4 Minimum damage                                      |
-| 3   | BUL  | ![{"name": "BUL Rune #3", "itemClass": "low", "requirement": 3}](https://nanobrowserquest.com/img/2/item-rune-bul.png)           | +4 Maximum damage                                      |
-| 4   | NAN  | ![{"name": "NAN Rune #4", "itemClass": "low", "requirement": 4}](https://nanobrowserquest.com/img/2/item-rune-nan.png)           | +4 Magic damage                                        |
-| 5   | MIR  | ![{"name": "MIR Rune #5", "itemClass": "medium", "requirement": 6}](https://nanobrowserquest.com/img/2/item-rune-mir.png)        | +4 Attack                                              |
-| 6   | GEL  | ![{"name": "GEL Rune #6", "itemClass": "medium", "requirement": 8}](https://nanobrowserquest.com/img/2/item-rune-gel.png)        | +4 Absorbed damage                                     |
-| 7   | DO   | ![{"name": "DO Rune #7", "itemClass": "high", "requirement": 10}](https://nanobrowserquest.com/img/2/item-rune-do.png)           | +4 Defense                                             |
-| 8   | BAN  | ![{"name": "BAN Rune #8", "itemClass": "high", "requirement": 12}](https://nanobrowserquest.com/img/2/item-rune-ban.png)         | +4% Experience                                         |
-| 9   | VIE  | ![{"name": "VIE Rune #9", "itemClass": "high", "requirement": 14}](https://nanobrowserquest.com/img/2/item-rune-vie.png)         | +10 health regeneration per second                     |
-| 10  | UM   | ![{"name": "UM Rune #10", "itemClass": "high", "requirement": 16}](https://nanobrowserquest.com/img/2/item-rune-um.png)          | +10 Flame damage                                       |
-| 11  | HEX  | ![{"name": "HEX Rune #11", "itemClass": "high", "requirement": 18}](https://nanobrowserquest.com/img/2/item-rune-hex.png)        | +5 Lightning damage                                    |
-| 12  | ZAL  | ![{"name": "ZAL Rune #12", "itemClass": "high", "requirement": 20}](https://nanobrowserquest.com/img/2/item-rune-zal.png)        | +5 Pierce armor attack                                 |
-| 13  | SOL  | ![{"name": "SOL Rune #13", "itemClass": "high", "requirement": 22}](https://nanobrowserquest.com/img/2/item-rune-sol.png)        | -5% Chance of being frozen                             |
-| 14  | ETH  | ![{"name": "ETH Rune #14", "itemClass": "high", "requirement": 24}](https://nanobrowserquest.com/img/2/item-rune-eth.png)        | +10 Poison damage                                      |
-| 15  | BTC  | ![{"name": "BTC Rune #15", "itemClass": "high", "requirement": 26}](https://nanobrowserquest.com/img/2/item-rune-btc.png)        | +10% Magic resistance                                  |
-| 16  | VAX  | ![{"name": "VAX Rune #16", "itemClass": "high", "requirement": 28}](https://nanobrowserquest.com/img/2/item-rune-vax.png)        | +10% Flame resistance                                  |
-| 17  | POR  | ![{"name": "POR Rune #17", "itemClass": "high", "requirement": 30}](https://nanobrowserquest.com/img/2/item-rune-por.png)        | +10% Lightning resistance                              |
-| 18  | LAS  | ![{"name": "LAS Rune #18", "itemClass": "high", "requirement": 32}](https://nanobrowserquest.com/img/2/item-rune-las.png)        | +10% Cold resistance                                   |
-| 19  | DUR  | ![{"name": "DUR Rune #19", "itemClass": "high", "requirement": 34}](https://nanobrowserquest.com/img/2/item-rune-dur.png)        | +4% All resistances                                    |
-| 20  | FAL  | ![{"name": "FAL Rune #20", "itemClass": "high", "requirement": 36}](https://nanobrowserquest.com/img/2/item-rune-fal.png)        | +8% Magic damage                                       |
-| 21  | KUL  | ![{"name": "KUL Rune #21", "itemClass": "high", "requirement": 38}](https://nanobrowserquest.com/img/2/item-rune-kul.png)        | +8% Lightning damage                                   |
-| 22  | MER  | ![{"name": "MER Rune #22", "itemClass": "high", "requirement": 41}](https://nanobrowserquest.com/img/2/item-rune-mer.png)        | +8% Flame damage                                       |
-| 23  | QUA  | ![{"name": "QUA Rune #23", "itemClass": "high", "requirement": 44}](https://nanobrowserquest.com/img/2/item-rune-qua.png)        | +8% Cold damage                                        |
-| 24  | GUL  | ![{"name": "GUL Rune #24", "itemClass": "high", "requirement": 47}](https://nanobrowserquest.com/img/2/item-rune-gul.png)        | +8% Poison damage                                      |
-| 25  | BER  | ![{"name": "BER Rune #25", "itemClass": "legendary", "requirement": 50}](https://nanobrowserquest.com/img/2/item-rune-ber.png)   | -6% Skill timeout                                      |
-| 26  | CHAM | ![{"name": "CHAM Rune #26", "itemClass": "legendary", "requirement": 53}](https://nanobrowserquest.com/img/2/item-rune-cham.png) | +10% Poison resistance                                 |
-| 27  | TOR  | ![{"name": "TOR Rune #27", "itemClass": "legendary", "requirement": 56}](https://nanobrowserquest.com/img/2/item-rune-tor.png)   | +10 Cold damage, +5% Freeze the enemy for # seconds    |
-| 28  | XNO  | ![{"name": "XNO Rune #28", "itemClass": "legendary", "requirement": 59}](https://nanobrowserquest.com/img/2/item-rune-xno.png)   | +10% Attack speed                                      |
-| 29  | JAH  | ![{"name": "JAH Rune #29", "itemClass": "legendary", "requirement": 62}](https://nanobrowserquest.com/img/2/item-rune-jah.png)   | +6% Magic find                                         |
-| 30  | SHI  | ![{"name": "SHI Rune #30", "itemClass": "legendary", "requirement": 65}](https://nanobrowserquest.com/img/2/item-rune-shi.png)   | +8% All resistances                                    |
-| 31  | VOD  | ![{"name": "VOD Rune #31", "itemClass": "legendary", "requirement": 68}](https://nanobrowserquest.com/img/2/item-rune-vod.png)   | +10 health regeneration per second, +10% Prevent enemy |
+| #   | NAME |  IMAGE  | STAT BONUSES
+| --- | ---- | ------------------------------------------------------------------------------- | ---------- |
+| 1   | SAT  | <img src="emojis/runesat.png" height="18px" valign="middle" alt="custom_emoji"> | +10 Health |
+| 2   | AL   | <img src="emojis/runeal.png" height="18px" valign="middle" alt="custom_emoji"> | +4 Minimum damage |
+| 3   | BUL  | <img src="emojis/runebul.png" height="18px" valign="middle" alt="custom_emoji"> | +4 Maximum damage |
+| 4   | NAN  | <img src="emojis/runenan.png" height="18px" valign="middle" alt="custom_emoji"> | +4 Magic damage   |
+| 5   | MIR  | <img src="emojis/runemir.png" height="18px" valign="middle" alt="custom_emoji"> | +4 Attack         |
+| 6   | GEL  | <img src="emojis/runegel.png" height="18px" valign="middle" alt="custom_emoji"> | +4 Absorbed damage|
+| 7   | DO   | <img src="emojis/runedo.png" height="18px" valign="middle" alt="custom_emoji"> | +4 Defense        |
+| 8   | BAN  | <img src="emojis/runeban.png" height="18px" valign="middle" alt="custom_emoji"> | +4% Experience    |
+| 9   | VIE  | <img src="emojis/runevie.png" height="18px" valign="middle" alt="custom_emoji"> | +10 health regeneration per second |
+| 10  | UM   | <img src="emojis/runeum.png" height="18px" valign="middle" alt="custom_emoji"> | +10 Flame damage  |
+| 11  | HEX  | <img src="emojis/runehex.png" height="18px" valign="middle" alt="custom_emoji"> | +5 Lightning damage|
+| 12  | ZAL  | <img src="emojis/runezal.png" height="18px" valign="middle" alt="custom_emoji"> | +5 Pierce armor attack |
+| 13  | SOL  | <img src="emojis/runesol.png" height="18px" valign="middle" alt="custom_emoji"> | -5% Chance of being frozen                             |
+| 14  | ETH  | <img src="emojis/runeeth.png" height="18px" valign="middle" alt="custom_emoji"> | +10 Poison damage                                      |
+| 15  | BTC  | <img src="emojis/runebtc.png" height="18px" valign="middle" alt="custom_emoji"> | +10% Magic resistance                                  |
+| 16  | VAX  | <img src="emojis/runevax.png" height="18px" valign="middle" alt="custom_emoji"> | +10% Flame resistance                                  |
+| 17  | POR  | <img src="emojis/runepor.png" height="18px" valign="middle" alt="custom_emoji"> | +10% Lightning resistance                              |
+| 18  | LAS  | <img src="emojis/runelas.png" height="18px" valign="middle" alt="custom_emoji"> | +10% Cold resistance                                   |
+| 19  | DUR  | <img src="emojis/runedur.png" height="18px" valign="middle" alt="custom_emoji"> | +4% All resistances                                    |
+| 20  | FAL  | <img src="emojis/runefal.png" height="18px" valign="middle" alt="custom_emoji"> | +8% Magic damage                                       |
+| 21  | KUL  | <img src="emojis/runekul.png" height="18px" valign="middle" alt="custom_emoji"> | +8% Lightning damage                                   |
+| 22  | MER  | <img src="emojis/runemer.png" height="18px" valign="middle" alt="custom_emoji"> | +8% Flame damage                                       |
+| 23  | QUA  | <img src="emojis/runequa.png" height="18px" valign="middle" alt="custom_emoji">  | +8% Cold damage                                        |
+| 24  | GUL  | <img src="emojis/runegul.png" height="18px" valign="middle" alt="custom_emoji"> | +8% Poison damage                                      |
+| 25  | BER  | <img src="emojis/runeber.png" height="18px" valign="middle" alt="custom_emoji"> | -6% Skill timeout                                      |
+| 26  | CHAM | <img src="emojis/runecham.png" height="18px" valign="middle" alt="custom_emoji"> | +10% Poison resistance                                 |
+| 27  | TOR  | <img src="emojis/runetor.png" height="18px" valign="middle" alt="custom_emoji"> | +10 Cold damage, +5% Freeze the enemy for # seconds    |
+| 28  | XNO  | <img src="emojis/runexno.png" height="18px" valign="middle" alt="custom_emoji"> | +10% Attack speed                                      |
+| 29  | JAH  | <img src="emojis/runejah.png" height="18px" valign="middle" alt="custom_emoji"> | +6% Magic find                                         |
+| 30  | SHI  | <img src="emojis/runeshi.png" height="18px" valign="middle" alt="custom_emoji"> | +8% All resistances                                    |
+| 31  | VOD  | <img src="emojis/runevod.png" height="18px" valign="middle" alt="custom_emoji"> | +10 health regeneration per second, +10% Prevent enemy regen |
 
 ## Runewords
 
