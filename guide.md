@@ -56,11 +56,8 @@ The expansion is for free now and it extends the game significantly. It features
 
 ![Secret Level](https://miro.medium.com/v2/format:webp/1*tZW26Kdu2og_9aFfZUk_3g.png?width=400px)
 
-Bonus Level Included in the Freezing Lands expansion, this secret level requires level 45 to enter and is opened by **three** ingredients mixed in the anvil to create the red portal.
+Bonus Level Included in the Freezing Lands expansion, this secret level requires level 45 to enter and is opened by **three** ingredients(Wirt's leg, Necromancer heart, Skeleton King's Thoracic Cage) mixed in the anvil to create the red portal.
 ![Cow Portal](https://cdn.discordapp.com/emojis/1170754976591646740.gif?size=100&quality=lossless)
-![{"name": "Wirt's leg", "level": 1, "itemClass": "low", "damage": 2, "magicDamage": 1, "requirement": 1}](https://nanobrowserquest.com/img/3/item-wirtleg.png)
-![{"name": "Skeleton King's Thoracic Cage", "description": "The thoracic cage of the Skeleton King. An unknown magic is still being emitted from the remains. Combined with other ingredients at the anvil, it will open a secret area, lv.45 required to enter" }](https://nanobrowserquest.com/img/3/item-skeletonkingcage.png)
-![{"name": "Necromancer's Heart", "description": "The heart of the Necromancer. An unknown magic is still being emitted from the remains. . Combined with other ingredients at the anvil, it will open a secret area, lv.45 required to enter" }](https://nanobrowserquest.com/img/3/item-necromancerheart.png)
 
 ## The Lost Temple Released on [Mar 30 2023](https://running-coder.medium.com/ba-nanobrowserquest-the-lost-temple-expansion-9339c1d29268)
 
