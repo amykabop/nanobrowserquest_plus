@@ -816,4 +816,4 @@ let hp = baseHP(80) + 6 * playerLevel;
 
 # Discord
 
-To engage with other players, report any problems, list your items for trade or check the release notes, you can join [Join the Discord ](https://discord.gg/u3AarepEN3).
+To engage with other players, report any problems, list your items for trade or check the release notes, you can join [Join the Discord ](https://discord.gg/27jUUcHyd).
