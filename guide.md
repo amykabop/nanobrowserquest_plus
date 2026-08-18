@@ -3,6 +3,7 @@
 ![Nano BrowserQuest Player Guide](https://user-images.githubusercontent.com/19352322/231320562-854d66fb-0d64-4322-b1c1-6bfcb17e1663.png?maxWidth=100%&overflow=hidden);
 
 This guide is **not** mine, it was originally created by [running-coder](https://github.com/running-coder), and further built on by Glegle(amykabop).
+Click [here](https://github.com/running-coder/nanolooker/blob/master/src/pages/NanoBrowserQuest/Guide/guide.md) for the original guide.
 
 ## Table of Contents
 
