@@ -813,10 +813,6 @@ let hp = baseHP(80) + 6 * playerLevel;
 | Azrael                  | ![Azrael](https://cdn.discordapp.com/emojis/1156685409233944726.webp?size=100&quality=lossless)                  | Lost temple final boss requires lv.69 to enter the final room                                                                                                                                                                                                                          | 1% bad omen ring, purple chest, 2% mystical ring,mystical set items                                                      |
 | Gorefiend the Butcher   | ![Gorefiend](https://cdn.discordapp.com/emojis/1156685096888303748.webp?size=100&quality=lossless)               | Boss accessible when using the quantum powder lv.68 required to enter the gateway portal                                                                                                                                                                                               | soulstone lootedfrom theButcher to the person who opened the Gateway, red chest from killing the butcher,demon set items |
 
-# Contribute
-
-[Contribute to the guide](https://github.com/running-coder/nanolooker/blob/master/src/pages/NanoBrowserQuest/Guide/guide.md) Make sure your markdown synthax is valid before opening a PR else it will be rejected.
-
 # Discord
 
 To engage with other players, report any problems, list your items for trade or check the release notes, you can join [Join the Discord ](https://discord.gg/27jUUcHyd).
